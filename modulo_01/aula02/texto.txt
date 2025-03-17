@@ -1,0 +1,21 @@
+#include <stdlib>
+
+int main()
+{
+    printf("teste");
+    return 0;
+}
+#include <stdlib>
+
+int main()
+{
+    printf("teste");
+    return 0;
+}
+#include <stdlib>
+
+int main()
+{
+    printf("teste");
+    return 0;
+}
