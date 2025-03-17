@@ -1,7 +1,14 @@
-#include <stdio.h>
+//
+//  Primeiro projeto em C++
+//  Autor: João Pedro 
+//  Data: 17/03/2025
+//
 
-int main() 
+
+#include <iostream>
+
+int main()
 {
-    printf("Ola, Mundo!\n");
+    std::cout << "Iniciando em C++, pelo curso do WrKits!\n";
     return 0;
 }
