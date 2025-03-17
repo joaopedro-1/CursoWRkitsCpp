@@ -1,11 +1,7 @@
-#include <stdlib>
+#include <stdio.h>
 
-int main()
+int main() 
 {
-    printf("teste");
+    printf("Ola, Mundo!\n");
     return 0;
-    //teste
-    jkdaskjdsa
-    kjasdjads
-    kjsa
 }
