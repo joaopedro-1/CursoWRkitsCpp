@@ -1,21 +1,8 @@
-<<<<<<< HEAD
-
-=======
-//
-//  Aula 02 do wrkits em C++
-//  Autor: João Pedro 
-//  Data: 18/03/2025
-//  Aritmética
->>>>>>> a833080 (aula02)
 
 #include <iostream>
 
 int main()
 {
-<<<<<<< HEAD
-    return 0;
-}
-=======
     int val; // numeros inteiros
 
     std::cout <<"Obtendo um valor do usuario"<< std::endl;
@@ -53,4 +40,3 @@ int main()
 
     return 0;
 } 
->>>>>>> a833080 (aula02)
